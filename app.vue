@@ -1,5 +1,14 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <LayoutHeader />
+  <main>
+    <SectionFirst />
+    <SectionSecond />
+    <SectionThird />
+    <SectionFourth />
+  </main>
 </template>
+
